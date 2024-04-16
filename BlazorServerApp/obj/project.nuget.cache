@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GuGLtB4Z9RPUsjlsHT0M3emDZt1uL4GC2DryrPYC7MrEkW6lh+2DzE8c6MIsBOkpvFfOA7lFd0JWxf4kT9a2lw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\green\\Documents\\Coding Files\\Self-Projects\\WarmUp\\BlazorServerApp\\BlazorServerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\green\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\green\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\green\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\green\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
